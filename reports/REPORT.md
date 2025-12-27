@@ -377,8 +377,3 @@ These contributions provide a foundation for mechanistic interpretability in phy
 6. SARM (2024). "SAE-Enhanced Reward Modeling." *Anomaly detection.*
 
 ---
-
-**Contact:** [Your Email]  
-**Repository:** [GitHub Link - Make publicly accessible]  
-**Document Access:** [Google Doc Link - Set to "Anyone with link can view"]
-
