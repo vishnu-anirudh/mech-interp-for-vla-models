@@ -1,7 +1,5 @@
 # Disentangling Physics from Pixels: Robust Feature Steering in Vision-Language-Action Models
 
-**Application for Mechanistic Interpretability Research**
-
 ---
 
 ## Executive Summary
